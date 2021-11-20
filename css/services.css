@@ -13,3 +13,7 @@ footer {
 i {
     padding:0.5em;
 }
+
+nav a:hover {
+    color:red;
+}
